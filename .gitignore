@@ -1,5 +1,8 @@
 # IntelliJ project files
+/.idea
+/.idea/workspace.xml
 .idea
+.awcache
 *.iml
 out
 gen
